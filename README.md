@@ -16,6 +16,10 @@ To configure the plugin, click its *Settings* button in *Preferences > Plugins*:
 
 Describe the configuration options your plugin has here.
 
+## Developing the plugin
+
+See the included docs for [full documentation of the plugin system](docs/README.md), [user configuration of plugins](docs/configuration.md) and a [getting started tutorial](docs/tutorial.md)
+
 ## Feedback
 
 Missing a feature or need some more help? Please head over to the [Tropy forums](https://forums.tropy.org/) and let us know.
