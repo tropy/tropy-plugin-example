@@ -1,6 +1,6 @@
 # tropy-plugin-example
 
-A Tropy Plugin Boilerplate
+A Tropy Plugin Boilerplate. See the included docs folder for [full documentation of the plugin system](docs/README.md), [user configuration of plugins](docs/configuration.md) and a [Getting Started tutorial](docs/tutorial.md).
 
 ## Installation
 
@@ -15,10 +15,6 @@ Describe how to use all the hooks your plugin implements here.
 To configure the plugin, click its *Settings* button in *Preferences > Plugins*:
 
 Describe the configuration options your plugin has here.
-
-## Developing the plugin
-
-See the included docs for [full documentation of the plugin system](docs/README.md), [user configuration of plugins](docs/configuration.md) and a [getting started tutorial](docs/tutorial.md)
 
 ## Feedback
 
