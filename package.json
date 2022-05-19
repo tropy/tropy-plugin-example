@@ -1,7 +1,8 @@
 {
   "name": "tropy-plugin-example",
+  "productName": "Example Plugin",
   "version": "1.0.0-beta.1",
-  "description": "Tropy Plugin for doing something.",
+  "description": "A Tropy plugin for doing something!",
   "main": "index.js",
   "scripts": {
     "test": "electron-mocha --renderer test",
