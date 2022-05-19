@@ -1,4 +1,6 @@
-# tropy-plugin-example
+<p align="center"><img src="icon.svg"></p>
+
+<h1 align="center">tropy-plugin-example</h1>
 This package is a sample plugin for [Tropy](https://tropy.org). It does not
 actively do anyting, but provides all the necessary scaffolding and build
 scripts to get you setup for your own plugin.
@@ -14,7 +16,7 @@ Happy hacking!
 ## Installation
 * Download the `.zip` file from the [latest
 release](https://github.com/tropy/tropy-plugin-example/releases/latest) on
-GitHub. 
+GitHub.
 * In Tropy, navigate to *Preferences… > Plugins* and click *Install
 Plugin* to select the downloaded ZIP file.
 
