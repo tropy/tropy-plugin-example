@@ -2,9 +2,9 @@ name: ci
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -24,7 +24,7 @@ jobs:
 
       - name: Lint
         run: npm run lint
-        
+
       - name: Test
         run: xvfb-run npm run test
 
